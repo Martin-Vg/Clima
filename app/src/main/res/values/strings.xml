@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">WeatherAPI</string>
+    <string name="title_activity_clima2">Clima2</string>
+    <string name="title_home">Tecate</string>
+    <string name="title_dashboard">Tijuana</string>
+    <string name="title_notifications">CDMX</string>
 </resources>
